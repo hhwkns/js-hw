@@ -1,0 +1,8 @@
+let cards = ['poker', 'spades', 'solitaire', 'hearts', 'rummy'];
+let arr = ','
+
+for (let i = 0; i < cards.length; i++) {
+
+  console.log(i, arr, cards[i]);
+
+}
