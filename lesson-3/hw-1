@@ -1,0 +1,16 @@
+
+let football = ['helmet', 'cleats', 'ball', 'ray finkle', 'kicker'];
+
+console.log(football);
+
+football.push('laces out');
+
+console.log(football);
+
+football.splice(2, 1);
+
+console.log(football);
+
+let str = football.join(' , ');
+
+console.log(str);

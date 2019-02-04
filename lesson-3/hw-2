@@ -1,0 +1,5 @@
+
+let football = ['Ray', 'Finkle', 'says', 'always', 'hold', 'the', 'ball', 'laces', 'out!'];
+let str = football.join(' ');
+
+console.log(football[2]);

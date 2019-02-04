@@ -1,6 +1,6 @@
-let x = 5;
-let y = 2;
-let z = 3;
+const x = 5;
+const y = 2;
+const z = 3;
 
 console.log(x + y);
 console.log(y * x - y);
